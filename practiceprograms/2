@@ -19,4 +19,5 @@ int main() {
 
     // Display the pay
     cout << "The pay is: $" << pay << endl;
-}1
+    return 0;
+}
